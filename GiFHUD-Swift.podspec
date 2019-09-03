@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "GiFHUD-Swift"
-  s.version      = "0.3"
+  s.version      = "0.4"
   s.summary      = "Progress hud for displaying only animated gif images implemented with swift"
 
   s.description  = <<-DESC
@@ -120,7 +120,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/cemolcay/GiFHUD-Swift.git", :tag => "0.3" }
+  s.source       = { :git => "https://github.com/ParhamHatan/GiFHUD-Swift/edit/master/GiFHUD-Swift.git", :tag => "0.4" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
